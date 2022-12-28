@@ -1,0 +1,178 @@
+body {
+    background-color: #141759;
+    margin: 0 auto;
+    width: 376px;
+    font-family: 'DM Sans', sans-serif;
+   
+
+
+}
+
+main {
+    background-color: #FDF8FF ;
+    border-radius: 8px 8px 8px 8px;
+    padding: 8px;
+    color: #141759;
+}
+
+h1 {
+    text-align: center;
+    color: #FDF8FF;
+    padding: 52px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+
+}
+
+.color1 {
+    width: 100px;
+    height: 100px;
+    border: solid 1px #0D0D0D;
+    display: inline-block;
+    background-color: #FDF8FF;
+    color: #0D0D0D;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 100px;
+    margin: 0 auto;
+    
+}
+
+.color2 {
+    width: 100px;
+    height: 100px;
+    border: solid 1px #0D0D0D;
+    display: inline-block;
+    background-color: #DC8DF2;
+    color: #FDF8FF;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 100px;
+    
+   }
+
+   .color3 {
+    width: 100px;
+    height: 100px;
+    border: solid 1px #0D0D0D;
+    display: inline-block;
+    background-color: #8A52D9;
+    color: #FDF8FF;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 100px;
+   }
+
+   .color4 {
+    width: 100px;
+    height: 100px;
+    border: solid 1px #0D0D0D;
+    display: inline-block;
+    background-color: #141759;
+    color: #FDF8FF;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 100px;
+   }
+
+   .color5 {
+    width: 100px;
+    height: 100px;
+    border: solid 1px #0D0D0D;
+    display: inline-block;
+    background-color: #1A37D9;
+    color: #FDF8FF;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 100px;
+   }
+
+   .color6 {
+    width: 100px;
+    height: 100px;
+    border: solid 1px #0D0D0D;
+    display: inline-block;
+    background-color: #0D0D0D;
+    color: #FDF8FF;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 100px;
+   }
+
+  .color1, .color2, .color3, .color4, .color5, .color6 {
+    margin: 4px;
+    display: inline-block;
+  }
+
+.regular {
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+.bold {
+
+    font-family: 'DM Sans';
+    font-style: bold;
+    font-weight: 700;
+   
+}
+
+.SG-h1 {
+    font-size: 32px;
+    font-style: bold;
+    font-weight: 700;
+
+}
+
+.SG-h2 {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+.SG-p {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+
+.primary {
+
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    background-color: #8A52D9;
+    color: #FDF8FF;
+    padding: 16px;
+    border-radius: 8px;
+    border: 0px;
+
+}
+
+.secondary {
+
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    background-color:#FDF8FF;
+    color:#141759;
+    padding: 16px;
+    border-radius: 8px;
+    border: solid 1px #8A52D9;
+
+}
+
+
+footer {
+    padding-top: 30px;
+    color: #FDF8FF;
+    text-align: center;
+}
